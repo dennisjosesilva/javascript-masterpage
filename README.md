@@ -5,6 +5,9 @@ It is a simulation of asp.net masterpage using only javascript and ajax calls
 
 To use it:
 
+-> YOU MUST BE USING A WEBSERVER even it is local. You can use Node.js quite easy. There is a web-server coded in the angular framework you can try it. It is really easy.
+
+
 
 -> create a masterpage using html
 -> insert the code [% content_id %] where you want to inject your content
